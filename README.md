@@ -8,4 +8,4 @@ Computer System**. I am using the 2015 Fall version.
 - Book site for `CSAPP: 3e`: http://csapp.cs.cmu.edu/3e/home.html
 - Lab website: http://csapp.cs.cmu.edu/3e/labs.html.
 
-I am studying and coding on MacOS.
+I am studying and coding on Ubuntu 22.04.
